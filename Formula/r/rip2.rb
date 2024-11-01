@@ -1,4 +1,4 @@
-class Rip < Formula
+class Rip2 < Formula
   desc "Safe and ergonomic alternative to rm"
   homepage "https://github.com/MilesCranmer/rip2"
   url "https://github.com/MilesCranmer/rip2/archive/refs/tags/v0.9.0.tar.gz"
